@@ -22,3 +22,5 @@ R: A ramificação do repositorio
 Questão 7 - Oque e pull request
 R:E uma forma colaborativa de compartilha criação ou mundanças
 no código
+Questão 8 - Oque e fork ?
+R: Copia o repositorio de outro usuario e passar para o seu
