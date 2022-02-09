@@ -9,3 +9,11 @@ Questões 3 - Oque e um repositorio ?
 R: Repositorio e a pasta onde sera colocado os arquivos do projeto
 podendo ser remoto ou local 
 
+Questão 4 - Os codigos que coloca no gitub estaram sempre 
+disponivel na web
+R: So se estiverem publico
+
+Questão 5 - Oque e vsc ?
+R:Software de Controle de versão
+
+Questão 6 - 
