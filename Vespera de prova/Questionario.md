@@ -16,4 +16,5 @@ R: So se estiverem publico
 Questão 5 - Oque e vsc ?
 R:Software de Controle de versão
 
-Questão 6 - 
+Questão 6 - Oque e branch ?
+R: A ramificação do repositorio
