@@ -18,3 +18,7 @@ R:Software de Controle de versão
 
 Questão 6 - Oque e branch ?
 R: A ramificação do repositorio
+
+Questão 7 - Oque e pull request
+R:E uma forma colaborativa de compartilha criação ou mundanças
+no código
